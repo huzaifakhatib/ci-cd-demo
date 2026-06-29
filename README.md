@@ -9,4 +9,4 @@ This repository is the sample of web application using golang.
 
 cicd pipeline chk
 
-29-06
+29-06-2026
